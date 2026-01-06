@@ -1,0 +1,50 @@
+
+body {
+	margin: 0;
+	font-family: Arial, sans-serif;
+	background-color: #f4f4f4;
+}
+
+table {
+	width: 80%;
+	margin: 20px auto;
+	border-collapse: collapse;
+}
+
+th, td {
+	border: 1px solid black;
+	padding: 5px;
+	text-align: left;
+}
+
+.success {
+	color: green;
+	background: #e7f9e7;
+	padding: 10px;
+	max-width: 400px;
+	margin: 20px auto;
+	border-radius: 4px;
+	text-align: center;
+}
+
+.error {
+	color: red;
+	background: #fdeaea;
+	padding: 10px;
+	max-width: 400px;
+	margin: 20px auto;
+	border-radius: 4px;
+	text-align: center;
+}
+
+
+
+footer {
+	background-color: #333;
+	color: white;
+	text-align: center;
+	padding: 10px;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}

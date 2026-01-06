@@ -1,0 +1,34 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Inception1",
+      "year": 2012,
+      "genre": "boring"
+    },
+    {
+      "id": "2",
+      "title": "Pulp Fiction",
+      "genre": "Crime",
+      "year": 1994
+    },
+    {
+      "id": "3",
+      "title": "Dune",
+      "genre": "Sci-Fi",
+      "year": 2021
+    },
+    {
+      "id": "5ae6",
+      "title": "chakka panja",
+      "genre": "comedy",
+      "year": 2017
+    },
+    {
+      "id": "5f0a",
+      "title": "sadf",
+      "genre": "ghd",
+      "year": 2000
+    }
+  ]
+}
